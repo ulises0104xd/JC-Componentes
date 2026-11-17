@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JC Componentes</string>
+
+    <!-- Video 27: barra inferior y snackbar -->
+    <string name="menu">Menú</string>
+    <string name="opciones">Opciones</string>
+    <string name="mensaje_evento_exitoso">Evento exitoso</string>
+
+    <!-- Video 28: menú de tres puntos -->
+    <string name="salir">Salir</string>
+    <string name="mensaje_hasta_pronto">Hasta pronto</string>
+
+    <!-- Video 29: botón flotante -->
+    <string name="cambiar_posicion">Cambiar posición</string>
+
+    <!-- Video 30: switch del botón flotante -->
+    <string name="apagar_fab">Apagar FAB</string>
+    <string name="prender_fab">Prender FAB</string>
+
+    <!-- Reto 30: tarjeta -->
+    <string name="nombre_institucion">Tecnológico Nacional de México</string>
+    <string name="descripcion_tecnm">Los primeros Institutos Tecnológicos (IT) surgieron en México en el año de 1948, fueron Durango y Chihuahua los estados en los que se fundaron los dos primeros institutos tecnológicos regionales.</string>
+    <string name="carreras">Carreras</string>
+    <string name="skip">Brincar</string>
+</resources>

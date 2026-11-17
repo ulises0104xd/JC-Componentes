@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JC Componentes</string>
+
+    <string name="menu">Menu</string>
+    <string name="opciones">Options</string>
+    <string name="mensaje_evento_exitoso">Success</string>
+
+    <string name="salir">Exit</string>
+    <string name="mensaje_hasta_pronto">See you soon</string>
+
+    <string name="cambiar_posicion">Change position</string>
+
+    <string name="apagar_fab">Turn FAB off</string>
+    <string name="prender_fab">Turn FAB on</string>
+
+    <string name="nombre_institucion">Tecnológico Nacional de México</string>
+    <string name="descripcion_tecnm">The first Technological Institutes (IT) emerged in Mexico in 1948; Durango and Chihuahua were the states where the first two regional technological institutes were founded.</string>
+    <string name="carreras">Programs</string>
+    <string name="skip">Skip</string>
+</resources>
